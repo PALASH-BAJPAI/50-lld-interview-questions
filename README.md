@@ -38,78 +38,79 @@ Each problem will include:
 
 ------------------------------------------------------------------------
 
+
 # 📚 Playlist
 
 ## 🟢 Easy (17)
 
-  \#   Problem
-  ---- ------------------------
-  1    Parking Lot
-  2    Vending Machine
-  3    Design a Calculator
-  4    LRU Cache
-  5    Elevator (Single)
-  6    Library Management
-  7    Logging Framework
-  8    Design a File Explorer
-  9    Tic Tac Toe
-  10   Chess
-  11   Snake & Ladder
-  12   ATM
-  13   Leaderboard
-  14   HashMap
-  15   Hit Counter
-  16   Basic Pub-Sub
-  17   Online Auction System
+| # | Problem |
+|---|---------|
+| 1 | Parking Lot |
+| 2 | Vending Machine |
+| 3 | Design a Calculator |
+| 4 | LRU Cache |
+| 5 | Elevator (Single) |
+| 6 | Library Management |
+| 7 | Logging Framework |
+| 8 | Design a File Explorer |
+| 9 | Tic Tac Toe |
+| 10 | Chess |
+| 11 | Snake & Ladder |
+| 12 | ATM |
+| 13 | Leaderboard |
+| 14 | HashMap |
+| 15 | Hit Counter |
+| 16 | Basic Pub-Sub |
+| 17 | Online Auction System |
 
-------------------------------------------------------------------------
+---
 
 ## 🟡 Medium (25)
 
-  \#   Problem
-  ---- ---------------------------------------
-  1    Rate Limiter
-  2    URL Shortener
-  3    Notification Service (Email/SMS/Push)
-  4    Meeting Room / Calendar Scheduler
-  5    Splitwise (Expense Sharing)
-  6    Movie Ticket Booking (BookMyShow)
-  7    Restaurant / Food Ordering System
-  8    Order Matching Engine
-  9    Multi-Elevator System
-  10   Car Rental System
-  11   Ride Sharing (Uber/Ola)
-  12   Hotel Management System
-  13   Stack Overflow
-  14   LinkedIn / Social Network
-  15   Trello / Kanban Board
-  16   In-Memory File System
-  17   Text Editor (Undo/Redo)
-  18   Search Autocomplete
-  19   Chat Application (WhatsApp)
-  20   Shopping Cart (Amazon Cart)
-  21   Music Player / Spotify
-  22   Coffee Machine
-  23   Snake Game
-  24   Traffic Signal System
-  25   Airline Reservation System
+| # | Problem |
+|---|---------|
+| 1 | Rate Limiter |
+| 2 | URL Shortener |
+| 3 | Notification Service (Email/SMS/Push) |
+| 4 | Meeting Room / Calendar Scheduler |
+| 5 | Splitwise (Expense Sharing) |
+| 6 | Movie Ticket Booking (BookMyShow) |
+| 7 | Restaurant / Food Ordering System |
+| 8 | Order Matching Engine |
+| 9 | Multi-Elevator System |
+| 10 | Car Rental System |
+| 11 | Ride Sharing (Uber/Ola) |
+| 12 | Hotel Management System |
+| 13 | Stack Overflow |
+| 14 | LinkedIn / Social Network |
+| 15 | Trello / Kanban Board |
+| 16 | In-Memory File System |
+| 17 | Text Editor (Undo/Redo) |
+| 18 | Search Autocomplete |
+| 19 | Chat Application (WhatsApp) |
+| 20 | Shopping Cart (Amazon Cart) |
+| 21 | Music Player / Spotify |
+| 22 | Coffee Machine |
+| 23 | Snake Game |
+| 24 | Traffic Signal System |
+| 25 | Airline Reservation System |
 
-------------------------------------------------------------------------
+---
 
 ## 🔴 Hard (10)
 
-  \#   Problem
-  ---- ---------------------------------
-  1    Multi-threaded Parking Lot
-  2    Payment Processing System
-  3    Task Scheduler (Dependency/DAG)
-  4    Cache Manager (LRU/LFU/TTL)
-  5    Feed Generation / News Feed
-  6    Trading Engine
-  7    Distributed File Storage System
-  8    Search Engine
-  9    Messaging Queue (Kafka)
-  10   Workflow Engine (Jenkins)
+| # | Problem |
+|---|---------|
+| 1 | Multi-threaded Parking Lot |
+| 2 | Payment Processing System |
+| 3 | Task Scheduler (Dependency/DAG) |
+| 4 | Cache Manager (LRU/LFU/TTL) |
+| 5 | Feed Generation / News Feed |
+| 6 | Trading Engine |
+| 7 | Distributed File Storage System |
+| 8 | Search Engine |
+| 9 | Messaging Queue (Kafka) |
+| 10 | Workflow Engine (Jenkins) |
 
 ------------------------------------------------------------------------
 
@@ -117,7 +118,6 @@ Each problem will include:
 
 -   Java
 -   Maven / Gradle
--   JUnit 5
 -   UML
 -   Design Patterns
 -   Collections Framework
