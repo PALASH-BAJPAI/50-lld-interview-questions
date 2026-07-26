@@ -1,43 +1,11 @@
 # 🚀 Low-Level Design (LLD) in Java \| 50 Interview Questions
 
-A curated collection of **50 Low-Level Design (LLD)** interview problems
-solved in **Java**. This repository is designed as a structured learning
-roadmap for Software Engineers preparing for interviews at companies
-like **Amazon, Microsoft, Google, Uber, Flipkart, Oracle, Atlassian,
-Salesforce, Walmart, Adobe, and Stripe**.
-
 The problems are organized from **Easy → Medium → Hard** so you can
 gradually build your Object-Oriented Design (OOD) skills.
 
-------------------------------------------------------------------------
-
-## 🎯 What You'll Learn
-
-Each solution focuses on:
-
--   Object-Oriented Programming (OOP)
--   SOLID Principles
--   Design Patterns
--   Clean Code Practices
--   UML Class Diagrams
--   Class Relationships
--   Extensible & Maintainable Design
--   Interview Discussion & Follow-up Questions
-
-Each problem will include:
-
--   ✅ Problem Statement
--   ✅ Functional Requirements
--   ✅ Non-Functional Requirements (where applicable)
--   ✅ UML/Class Diagram
--   ✅ Java Implementation
--   ✅ Explanation of Design Decisions
--   ✅ Design Patterns Used
--   ✅ Possible Interview Follow-ups
--   ✅ Improvements & Scalability Discussion
+Contains Notes for: Design Patterns, OOPs in Java, OOPs in Python
 
 ------------------------------------------------------------------------
-
 
 # 📚 Playlist
 
@@ -113,6 +81,34 @@ Each problem will include:
 | 10 | Workflow Engine (Jenkins) |
 
 ------------------------------------------------------------------------
+
+## 🎯 What You'll Learn
+
+Each solution focuses on:
+
+-   Object-Oriented Programming (OOP)
+-   SOLID Principles
+-   Design Patterns
+-   Clean Code Practices
+-   UML Class Diagrams
+-   Class Relationships
+-   Extensible & Maintainable Design
+-   Interview Discussion & Follow-up Questions
+
+Each problem will include:
+
+-   ✅ Problem Statement
+-   ✅ Functional Requirements
+-   ✅ Non-Functional Requirements (where applicable)
+-   ✅ UML/Class Diagram
+-   ✅ Java Implementation
+-   ✅ Explanation of Design Decisions
+-   ✅ Design Patterns Used
+-   ✅ Possible Interview Follow-ups
+-   ✅ Improvements & Scalability Discussion
+
+------------------------------------------------------------------------
+
 
 # 🛠️ Tech Stack
 
